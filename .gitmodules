@@ -1,0 +1,3 @@
+[submodule "libpower"]
+	path = libpower
+	url = https://github.com/gustavowd/libpower.git
